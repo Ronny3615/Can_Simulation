@@ -1,0 +1,232 @@
+
+==============================
+CAN Multi-ECU Simulation Started
+==============================
+
+--- Simulation Cycle 1 ---
+[ERROR][Sat Jun 28 14:38:32 2025
+] ECU 2: Injected bit error (simulated).
+[Scheduler] ECU 1 scheduled to run...
+[TX][Sat Jun 28 14:38:32 2025
+] ECU 1 Sent Frame - ID: 1, Data: 0xA1, CRC: 0x752CCCC0
+[ARBITRATION][Sat Jun 28 14:38:32 2025
+] ECU 1 won arbitration.
+[RX][Sat Jun 28 14:38:32 2025
+] Frame Received by ECU 1 - ID: 1, Data: 0xA1, CRC: 0xA1
+[Scheduler] ECU 2 scheduled to run...
+[ERROR][Sat Jun 28 14:38:32 2025
+] ECU 2: Error state: frame not sent.
+[Scheduler] ECU 3 scheduled to run...
+[TX][Sat Jun 28 14:38:32 2025
+] ECU 3 Sent Frame - ID: 3, Data: 0xA3, CRC: 0x752CCCC0
+[ARBITRATION][Sat Jun 28 14:38:32 2025
+] ECU 3 won arbitration.
+[RX][Sat Jun 28 14:38:32 2025
+] Frame Received by ECU 3 - ID: 3, Data: 0xA3, CRC: 0xA1
+
+--- Simulation Cycle 2 ---
+[ERROR][Sat Jun 28 14:38:32 2025
+] ECU 2: Injected bit error (simulated).
+[Scheduler] ECU 1 scheduled to run...
+[TX][Sat Jun 28 14:38:32 2025
+] ECU 1 Sent Frame - ID: 1, Data: 0xA1, CRC: 0x752CCCC0
+[ARBITRATION][Sat Jun 28 14:38:32 2025
+] ECU 1 won arbitration.
+[RX][Sat Jun 28 14:38:32 2025
+] Frame Received by ECU 1 - ID: 1, Data: 0xA1, CRC: 0xA1
+[Scheduler] ECU 2 scheduled to run...
+[ERROR][Sat Jun 28 14:38:32 2025
+] ECU 2: Error state: frame not sent.
+[Scheduler] ECU 3 scheduled to run...
+[TX][Sat Jun 28 14:38:32 2025
+] ECU 3 Sent Frame - ID: 3, Data: 0xA3, CRC: 0x752CCCC0
+[ARBITRATION][Sat Jun 28 14:38:32 2025
+] ECU 3 won arbitration.
+[RX][Sat Jun 28 14:38:32 2025
+] Frame Received by ECU 3 - ID: 3, Data: 0xA3, CRC: 0xA1
+
+--- Simulation Cycle 3 ---
+[ERROR][Sat Jun 28 14:38:32 2025
+] ECU 2: Injected bit error (simulated).
+[Scheduler] ECU 1 scheduled to run...
+[TX][Sat Jun 28 14:38:32 2025
+] ECU 1 Sent Frame - ID: 1, Data: 0xA1, CRC: 0x752CCCC0
+[ARBITRATION][Sat Jun 28 14:38:32 2025
+] ECU 1 won arbitration.
+[RX][Sat Jun 28 14:38:32 2025
+] Frame Received by ECU 1 - ID: 1, Data: 0xA1, CRC: 0xA1
+[Scheduler] ECU 2 scheduled to run...
+[ERROR][Sat Jun 28 14:38:32 2025
+] ECU 2: Error state: frame not sent.
+[Scheduler] ECU 3 scheduled to run...
+[TX][Sat Jun 28 14:38:32 2025
+] ECU 3 Sent Frame - ID: 3, Data: 0xA3, CRC: 0x752CCCC0
+[ARBITRATION][Sat Jun 28 14:38:32 2025
+] ECU 3 won arbitration.
+[RX][Sat Jun 28 14:38:32 2025
+] Frame Received by ECU 3 - ID: 3, Data: 0xA3, CRC: 0xA1
+
+--- Simulation Cycle 4 ---
+[ERROR][Sat Jun 28 14:38:32 2025
+] ECU 2: Injected bit error (simulated).
+[Scheduler] ECU 1 scheduled to run...
+[TX][Sat Jun 28 14:38:32 2025
+] ECU 1 Sent Frame - ID: 1, Data: 0xA1, CRC: 0x752CCCC0
+[ARBITRATION][Sat Jun 28 14:38:32 2025
+] ECU 1 won arbitration.
+[RX][Sat Jun 28 14:38:32 2025
+] Frame Received by ECU 1 - ID: 1, Data: 0xA1, CRC: 0xA1
+[Scheduler] ECU 2 scheduled to run...
+[ERROR][Sat Jun 28 14:38:32 2025
+] ECU 2: Error state: frame not sent.
+[Scheduler] ECU 3 scheduled to run...
+[TX][Sat Jun 28 14:38:32 2025
+] ECU 3 Sent Frame - ID: 3, Data: 0xA3, CRC: 0x752CCCC0
+[ARBITRATION][Sat Jun 28 14:38:32 2025
+] ECU 3 won arbitration.
+[RX][Sat Jun 28 14:38:32 2025
+] Frame Received by ECU 3 - ID: 3, Data: 0xA3, CRC: 0xA1
+
+--- Simulation Cycle 5 ---
+[ERROR][Sat Jun 28 14:38:32 2025
+] ECU 2: Injected bit error (simulated).
+[Scheduler] ECU 1 scheduled to run...
+[TX][Sat Jun 28 14:38:32 2025
+] ECU 1 Sent Frame - ID: 1, Data: 0xA1, CRC: 0x752CCCC0
+[ARBITRATION][Sat Jun 28 14:38:32 2025
+] ECU 1 won arbitration.
+[RX][Sat Jun 28 14:38:32 2025
+] Frame Received by ECU 1 - ID: 1, Data: 0xA1, CRC: 0xA1
+[Scheduler] ECU 2 scheduled to run...
+[ERROR][Sat Jun 28 14:38:32 2025
+] ECU 2: Error state: frame not sent.
+[Scheduler] ECU 3 scheduled to run...
+[TX][Sat Jun 28 14:38:32 2025
+] ECU 3 Sent Frame - ID: 3, Data: 0xA3, CRC: 0x752CCCC0
+[ARBITRATION][Sat Jun 28 14:38:32 2025
+] ECU 3 won arbitration.
+[RX][Sat Jun 28 14:38:32 2025
+] Frame Received by ECU 3 - ID: 3, Data: 0xA3, CRC: 0xA1
+
+Simulation Completed.
+
+==============================
+CAN Multi-ECU Simulation Started
+==============================
+
+--- Simulation Cycle 1 ---
+[Scheduler] ECU 1 scheduled to run...
+[TX][Sat Jun 28 14:39:33 2025
+] ECU 1 Sent Frame - ID: 1, Data: 0xA1, CRC: 0x752CCCC0
+[ARBITRATION][Sat Jun 28 14:39:33 2025
+] ECU 1 won arbitration.
+[RX][Sat Jun 28 14:39:33 2025
+] Frame Received by ECU 1 - ID: 1, Data: 0xA1, CRC: 0xA1
+[Scheduler] ECU 2 scheduled to run...
+[TX][Sat Jun 28 14:39:33 2025
+] ECU 2 Sent Frame - ID: 2, Data: 0xA2, CRC: 0x752CCCC0
+[ARBITRATION][Sat Jun 28 14:39:33 2025
+] ECU 2 won arbitration.
+[RX][Sat Jun 28 14:39:33 2025
+] Frame Received by ECU 2 - ID: 2, Data: 0xA2, CRC: 0xA1
+[Scheduler] ECU 3 scheduled to run...
+[TX][Sat Jun 28 14:39:33 2025
+] ECU 3 Sent Frame - ID: 3, Data: 0xA3, CRC: 0x752CCCC0
+[ARBITRATION][Sat Jun 28 14:39:33 2025
+] ECU 3 won arbitration.
+[RX][Sat Jun 28 14:39:33 2025
+] Frame Received by ECU 3 - ID: 3, Data: 0xA3, CRC: 0xA1
+
+--- Simulation Cycle 2 ---
+[Scheduler] ECU 1 scheduled to run...
+[TX][Sat Jun 28 14:39:33 2025
+] ECU 1 Sent Frame - ID: 1, Data: 0xA1, CRC: 0x752CCCC0
+[ARBITRATION][Sat Jun 28 14:39:33 2025
+] ECU 1 won arbitration.
+[RX][Sat Jun 28 14:39:33 2025
+] Frame Received by ECU 1 - ID: 1, Data: 0xA1, CRC: 0xA1
+[Scheduler] ECU 2 scheduled to run...
+[TX][Sat Jun 28 14:39:33 2025
+] ECU 2 Sent Frame - ID: 2, Data: 0xA2, CRC: 0x752CCCC0
+[ARBITRATION][Sat Jun 28 14:39:33 2025
+] ECU 2 won arbitration.
+[RX][Sat Jun 28 14:39:33 2025
+] Frame Received by ECU 2 - ID: 2, Data: 0xA2, CRC: 0xA1
+[Scheduler] ECU 3 scheduled to run...
+[TX][Sat Jun 28 14:39:33 2025
+] ECU 3 Sent Frame - ID: 3, Data: 0xA3, CRC: 0x752CCCC0
+[ARBITRATION][Sat Jun 28 14:39:33 2025
+] ECU 3 won arbitration.
+[RX][Sat Jun 28 14:39:33 2025
+] Frame Received by ECU 3 - ID: 3, Data: 0xA3, CRC: 0xA1
+
+--- Simulation Cycle 3 ---
+[Scheduler] ECU 1 scheduled to run...
+[TX][Sat Jun 28 14:39:33 2025
+] ECU 1 Sent Frame - ID: 1, Data: 0xA1, CRC: 0x752CCCC0
+[ARBITRATION][Sat Jun 28 14:39:33 2025
+] ECU 1 won arbitration.
+[RX][Sat Jun 28 14:39:33 2025
+] Frame Received by ECU 1 - ID: 1, Data: 0xA1, CRC: 0xA1
+[Scheduler] ECU 2 scheduled to run...
+[TX][Sat Jun 28 14:39:33 2025
+] ECU 2 Sent Frame - ID: 2, Data: 0xA2, CRC: 0x752CCCC0
+[ARBITRATION][Sat Jun 28 14:39:33 2025
+] ECU 2 won arbitration.
+[RX][Sat Jun 28 14:39:33 2025
+] Frame Received by ECU 2 - ID: 2, Data: 0xA2, CRC: 0xA1
+[Scheduler] ECU 3 scheduled to run...
+[TX][Sat Jun 28 14:39:33 2025
+] ECU 3 Sent Frame - ID: 3, Data: 0xA3, CRC: 0x752CCCC0
+[ARBITRATION][Sat Jun 28 14:39:33 2025
+] ECU 3 won arbitration.
+[RX][Sat Jun 28 14:39:33 2025
+] Frame Received by ECU 3 - ID: 3, Data: 0xA3, CRC: 0xA1
+
+--- Simulation Cycle 4 ---
+[Scheduler] ECU 1 scheduled to run...
+[TX][Sat Jun 28 14:39:33 2025
+] ECU 1 Sent Frame - ID: 1, Data: 0xA1, CRC: 0x752CCCC0
+[ARBITRATION][Sat Jun 28 14:39:33 2025
+] ECU 1 won arbitration.
+[RX][Sat Jun 28 14:39:33 2025
+] Frame Received by ECU 1 - ID: 1, Data: 0xA1, CRC: 0xA1
+[Scheduler] ECU 2 scheduled to run...
+[TX][Sat Jun 28 14:39:33 2025
+] ECU 2 Sent Frame - ID: 2, Data: 0xA2, CRC: 0x752CCCC0
+[ARBITRATION][Sat Jun 28 14:39:33 2025
+] ECU 2 won arbitration.
+[RX][Sat Jun 28 14:39:33 2025
+] Frame Received by ECU 2 - ID: 2, Data: 0xA2, CRC: 0xA1
+[Scheduler] ECU 3 scheduled to run...
+[TX][Sat Jun 28 14:39:33 2025
+] ECU 3 Sent Frame - ID: 3, Data: 0xA3, CRC: 0x752CCCC0
+[ARBITRATION][Sat Jun 28 14:39:33 2025
+] ECU 3 won arbitration.
+[RX][Sat Jun 28 14:39:33 2025
+] Frame Received by ECU 3 - ID: 3, Data: 0xA3, CRC: 0xA1
+
+--- Simulation Cycle 5 ---
+[Scheduler] ECU 1 scheduled to run...
+[TX][Sat Jun 28 14:39:33 2025
+] ECU 1 Sent Frame - ID: 1, Data: 0xA1, CRC: 0x752CCCC0
+[ARBITRATION][Sat Jun 28 14:39:33 2025
+] ECU 1 won arbitration.
+[RX][Sat Jun 28 14:39:33 2025
+] Frame Received by ECU 1 - ID: 1, Data: 0xA1, CRC: 0xA1
+[Scheduler] ECU 2 scheduled to run...
+[TX][Sat Jun 28 14:39:33 2025
+] ECU 2 Sent Frame - ID: 2, Data: 0xA2, CRC: 0x752CCCC0
+[ARBITRATION][Sat Jun 28 14:39:33 2025
+] ECU 2 won arbitration.
+[RX][Sat Jun 28 14:39:33 2025
+] Frame Received by ECU 2 - ID: 2, Data: 0xA2, CRC: 0xA1
+[Scheduler] ECU 3 scheduled to run...
+[TX][Sat Jun 28 14:39:33 2025
+] ECU 3 Sent Frame - ID: 3, Data: 0xA3, CRC: 0x752CCCC0
+[ARBITRATION][Sat Jun 28 14:39:33 2025
+] ECU 3 won arbitration.
+[RX][Sat Jun 28 14:39:33 2025
+] Frame Received by ECU 3 - ID: 3, Data: 0xA3, CRC: 0xA1
+
+Simulation Completed.

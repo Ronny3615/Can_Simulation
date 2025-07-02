@@ -1,0 +1,21 @@
+# Ignore Windows and Unix executables
+*.exe
+*.out
+*.o
+
+# Ignore log and generated files
+log.txt
+logger.txt
+
+# Ignore build artifacts (if any)
+build/
+*.obj
+
+# Ignore OS-specific junk
+.DS_Store
+Thumbs.db
+
+# Ignore backups or editor-specific files
+*~
+*.swp
+.vscode/
